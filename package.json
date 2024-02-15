@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is to test out node related project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuodaniel/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Daniel Kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuodaniel/node/issues"
+  },
+  "homepage": "https://github.com/kuodaniel/node#readme"
+}
